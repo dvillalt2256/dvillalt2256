@@ -7,3 +7,4 @@ My name is Diego Martinez, and I'm currently a student at Nora Frances Henderson
 ![C#](https://img.shields.io/badge/-C%23-000000?&logo=csharp&logoColor=8A2BE2)
 
 ## Software Tools
+![Unity](https://img.shields.io/badge/-Unity-000000?&logo=unity)
