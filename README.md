@@ -9,4 +9,4 @@ My name is Diego Martinez, and I'm currently a student at Nora Frances Henderson
 ## Software Tools
 ![Unity](https://img.shields.io/badge/-Unity-000000?&logo=unity)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?&logo=arduino&logoColor=00979D)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=visual-studio-code)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?&logo=visual-studio-code&logoColor=007ACC)
