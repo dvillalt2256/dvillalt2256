@@ -4,6 +4,6 @@ My name is Diego Martinez, and I'm currently a student at Nora Frances Henderson
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=800080&style=flat-square&labelColor=000000)
 
 ## Software Tools
