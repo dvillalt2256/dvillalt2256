@@ -9,3 +9,4 @@ My name is Diego Martinez, and I'm currently a student at Nora Frances Henderson
 ## Software Tools
 ![Unity](https://img.shields.io/badge/-Unity-000000?&logo=unity)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?&logo=arduino)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?&logo=arduino)
